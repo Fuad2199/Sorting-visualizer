@@ -1,2 +1,3 @@
 First commit: In this commit I build the basic structure of the project with HTML.
 Second commit: And now I give the style of the project with css🎨.
+Third commit: I have started implementing functionality in JavaScript. I created a function called generateArray, which is triggered when the website loads. It generates a random array and displays it. When the "Generate" button is clicked, the renderArray() function is called to visually display the numbers on the page again.
